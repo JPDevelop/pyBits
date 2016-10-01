@@ -1,6 +1,6 @@
 # pyBits
 
-## the pybits library is very small right now and has 5 functions right now:
+## the pybits library is very small but usefull and has 5 functions:
 
 1. readBitsFromFile
 
